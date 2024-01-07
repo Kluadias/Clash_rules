@@ -8,4 +8,4 @@ DOMAIN,www.speed.io
 DOMAIN-SUFFIX,big.im
 DOMAIN,sub.v1.mk
 # 网页代理
-DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-KEYWORD,github
