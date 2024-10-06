@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,big.im
 DOMAIN,sub.v1.mk
 # 网页代理
 DOMAIN-KEYWORD,github
+# emby代理
+DOMAIN-SUFFIX,jiashule.com
